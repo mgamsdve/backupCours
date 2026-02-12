@@ -1,0 +1,14 @@
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\bin\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.exe
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\bin\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.deps.json
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\bin\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.runtimeconfig.json
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\bin\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.dll
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\bin\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.pdb
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\obj\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\obj\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.AssemblyInfoInputs.cache
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\obj\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.AssemblyInfo.cs
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\obj\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.csproj.CoreCompileInputs.cache
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\obj\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.dll
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\obj\Debug\net8.0\refint\5TTI_DayaniPoty_Mael_ClassementPairImpairs.dll
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\obj\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.pdb
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\obj\Debug\net8.0\5TTI_DayaniPoty_Mael_ClassementPairImpairs.genruntimeconfig.cache
+C:\Users\maeld\Code\cours\C#\5TTI_DayaniPoty_Mael_ClassementPairImpairs\obj\Debug\net8.0\ref\5TTI_DayaniPoty_Mael_ClassementPairImpairs.dll

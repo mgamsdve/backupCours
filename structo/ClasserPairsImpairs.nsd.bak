@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.32-34" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" namespace="" author="mgamsdve" created="2026-02-07" changedby="mgamsdve" changed="2026-02-07" origin="Structorizer 3.32-34" text="&#34;ClasserPairsImpairs&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;tailleTableau = T.lenght&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;tableauPairs = new int[tailleTableau]&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;tableauImpairs = new int[tailleTableau]&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;iPair = 0&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;iImpair = 0&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+		<for text="&#34;for i = 0 to tailleTableau - 1; i++&#34;" comment="&#34;&#34;" counterVar="dummy_counter" startValue="i = 0" endValue="tailleTableau - 1; i++" stepConst="1" style="FREETEXT" color="ffffff" disabled="0">
+			<qFor>
+				<alternative text="&#34;tableau[i] % 2 == 0&#34;" comment="&#34;&#34;" color="ffffff" branch_colors="," disabled="0">
+					<qTrue>
+						<instruction text="&#34;tableauPairs[iPair] = tableau[i]&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+						<instruction text="&#34;iPair++&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+					</qTrue>
+					<qFalse>
+						<instruction text="&#34;tableauPairs[iImpair] = tableau[i]&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+						<instruction text="&#34;iImpair++&#34;" comment="&#34;&#34;" color="ffffff" rotated="0" disabled="0"></instruction>
+					</qFalse>
+				</alternative>
+			</qFor>
+		</for>
+	</children>
+</root>

@@ -1,0 +1,14 @@
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\bin\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.exe
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\bin\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.deps.json
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\bin\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.runtimeconfig.json
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\bin\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.dll
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\bin\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.pdb
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\obj\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\obj\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.AssemblyInfoInputs.cache
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\obj\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.AssemblyInfo.cs
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\obj\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.csproj.CoreCompileInputs.cache
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\obj\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.dll
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\obj\Debug\net8.0\refint\5TTi_DayaniPoty_Mael_CodeCorrectif.dll
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\obj\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.pdb
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\obj\Debug\net8.0\5TTi_DayaniPoty_Mael_CodeCorrectif.genruntimeconfig.cache
+C:\Users\maeld\Code\cours\C#\5TTi_DayaniPoty_Mael_CodeCorrectif\obj\Debug\net8.0\ref\5TTi_DayaniPoty_Mael_CodeCorrectif.dll
