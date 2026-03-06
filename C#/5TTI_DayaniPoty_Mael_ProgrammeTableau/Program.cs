@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             int tailleTableau;
             int bornInfIntervalle;
@@ -19,25 +19,24 @@
 
             do
             {
-                LireEntier("Entrez la taille du tableau : ", out tailleTableau);
-                LireEntier("Entrez la borne inférieure : ", out bornInfIntervalle);
-                LireEntier("Entrez la borne supérieure : ", out borneSupIntervalle);
+                tailleTableau = FunctionProgram.LireEntier("Entrez la taille du tableau : ");
+                bornInfIntervalle = FunctionProgram.LireEntier("Entrez la borne inférieure : ");
+                borneSupIntervalle = FunctionProgram.LireEntier("Entrez la borne supérieure : ");
 
-                CreationTableauAleatoire(
+                tableau = FunctionProgram.CreationTableauAleatoire(
                     tailleTableau,
                     bornInfIntervalle,
-                    borneSupIntervalle,
-                    out tableau
+                    borneSupIntervalle
                 );
 
-                ConcatenerContenuTableau(tableau, out contenu);
+                contenu = FunctionProgram.ConcatenerContenuTableau(tableau);
                 Console.WriteLine("Tableau généré aléatoirement :");
                 Console.WriteLine(contenu);
 
-                ClasserPairsImpairs(tableau, out tableauPairs, out tableauImpairs);
+                (tableauPairs, tableauImpairs) = FunctionProgram.ClasserPairsImpairs(tableau);
 
-                ConcatenerContenuTableau(tableauPairs, out contenuPairs);
-                ConcatenerContenuTableau(tableauImpairs, out contenuImpairs);
+                contenuPairs = FunctionProgram.ConcatenerContenuTableau(tableauPairs);
+                contenuImpairs = FunctionProgram.ConcatenerContenuTableau(tableauImpairs);
 
                 Console.WriteLine("Nombres pairs :");
                 Console.WriteLine(contenuPairs);
@@ -46,74 +45,9 @@
                 Console.WriteLine(contenuImpairs);
 
                 Console.WriteLine("Appuyez sur ESPACE pour recommencer");
-                recommencer = Console.ReadLine();
+                recommencer = Console.ReadLine() ?? "";
             }
             while (recommencer == " ");
-        }
-
-        static void LireEntier(string question, out int resultat)
-        {
-            do
-            {
-                Console.WriteLine(question);
-            }
-            while (!int.TryParse(Console.ReadLine(), out resultat));
-        }
-
-
-        static void CreationTableauAleatoire(
-            int tailleTableau,
-            int bornInfIntervalle,
-            int borneSupIntervalle,
-            out int[] tableau)
-        {
-            Random alea = new Random();
-
-            tableau = new int[tailleTableau];
-
-            for (int iPlace = 0; iPlace < tableau.Length; iPlace++)
-            {
-                tableau[iPlace] = alea.Next(bornInfIntervalle, borneSupIntervalle + 1);
-            }
-        }
-
-
-        static void ClasserPairsImpairs(
-            int[] tableau,
-            out int[] tableauPairs,
-            out int[] tableauImpairs)
-        {
-            int tailleTableau = tableau.Length;
-
-            tableauPairs = new int[tailleTableau];
-            tableauImpairs = new int[tailleTableau];
-
-            int iPair = 0;
-            int iImpair = 0;
-
-            for (int i = 0; i < tailleTableau; i++)
-            {
-                if (tableau[i] % 2 == 0)
-                {
-                    tableauPairs[iPair] = tableau[i];
-                    iPair++;
-                }
-                else
-                {
-                    tableauImpairs[iImpair] = tableau[i];
-                    iImpair++;
-                }
-            }
-        }
-
-        static void ConcatenerContenuTableau(int[] tableau, out string contenu)
-        {
-            contenu = "";
-
-            for (int i = 0; i < tableau.Length; i++)
-            {
-                contenu += tableau[i] + "; ";
-            }
         }
     }
 }
