@@ -1,0 +1,15 @@
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/bin/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/bin/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.deps.json
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/bin/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.runtimeconfig.json
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/bin/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.dll
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/bin/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.pdb
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/obj/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/obj/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.AssemblyInfoInputs.cache
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/obj/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.AssemblyInfo.cs
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/obj/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.csproj.CoreCompileInputs.cache
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/obj/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.sourcelink.json
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/obj/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.dll
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/obj/Debug/net8.0/refint/5TTI_DayaniPoty_Mael_ProgrammeTableau.dll
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/obj/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.pdb
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/obj/Debug/net8.0/5TTI_DayaniPoty_Mael_ProgrammeTableau.genruntimeconfig.cache
+/Users/mgams/Code/backupCours/C#/5TTI_DayaniPoty_Mael_ProgrammeTableau/obj/Debug/net8.0/ref/5TTI_DayaniPoty_Mael_ProgrammeTableau.dll
