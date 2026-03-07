@@ -2,7 +2,7 @@ namespace _5TTI_DayaniPoty_Mael_ProgrammeTableau
 {
     internal class Program
     {
-        static int Main(string[] _)
+        static void Main(string[] args)
         {
             // Ajout d'une matrice comme pour le tableau.
             int tailleMatrice;
@@ -54,7 +54,7 @@ namespace _5TTI_DayaniPoty_Mael_ProgrammeTableau
                 contenu = FunctionProgram.ConcatenerContenuTableau(tableau);
                 Console.WriteLine("Tableau généré aléatoirement :");
                 Console.WriteLine(contenu);
-
+                
                 (tableauPairs, tableauImpairs) = FunctionProgram.ClasserPairsImpairs(tableau);
                 (pair, impair) = FunctionProgram.ClasserPairsImpairs(matrice);
                 contenuPairsMatrice = FunctionProgram.ConcatenerContenuMatrice(pair);
@@ -75,8 +75,6 @@ namespace _5TTI_DayaniPoty_Mael_ProgrammeTableau
                 recommencer = Console.ReadLine() ?? "";
             }
             while (recommencer == " ");
-
-            return 0;
         }
     }
 }
